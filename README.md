@@ -5,7 +5,7 @@ PROGRAMACIÓN 1
 Tecnicatura Superior en Programación
 
 
-    Estudiante:
+Estudiante:
  Raimundo Juan Marco
 
  Descripción: 
